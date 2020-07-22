@@ -1,0 +1,14 @@
+  
+Statements for Study Hypothesis
+
+
+1. Every year more than 500 employee leave the company
+2. employee aged more than 30 are atritioning
+3. employee who atritioning are hard working,and want product base company.
+4. atritioned employee has less than 20% salary hike.
+5. Employee who leaves has yearatcompay 5.
+6. YearsSinceLastPromotion =3
+7. Attrition employee has TotalWorkingYears=5
+8. Attrition employee has MaritalStatus = married
+9. In attrition life science department employee are more than others
+10. attrition Employee has Distance from home is 10 km
